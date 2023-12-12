@@ -23,6 +23,6 @@ cd $HOME/projects/sage/hydro-modeling/datasets/NASA-HMA
 for month in {01..12}
 do
   # (default) python subset_HMA_DM_iter.py 200301 73.375,22.4375,97.8125,31.5 0.0625
-  python -u subset_HMA_DM_iter.py $year$month # argment vectors: yearmonth lon_west,lat_south,lon_east,lat_north resolution(optional)
+  python -u subset_HMA_DM_iter.py $year$month # argument vectors: yearmonth lon_west,lat_south,lon_east,lat_north resolution(optional)
   echo Completed...$year$month
 done

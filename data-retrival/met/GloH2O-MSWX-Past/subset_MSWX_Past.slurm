@@ -21,6 +21,6 @@ ulimit -s unlimited
 for year in {1990..2019}
 do
   # (default) python subset_MSWX_Past.py 2003 73.375,22.4375,97.8125,31.5 0.0625
-  python subset_MSWX_Past.py $year # argment vectors: year lon_west,lat_south,lon_east,lat_north resolution(optional)
+  python subset_MSWX_Past.py $year # argument vectors: year lon_west,lat_south,lon_east,lat_north resolution(optional)
   echo Completed...${year}
 done

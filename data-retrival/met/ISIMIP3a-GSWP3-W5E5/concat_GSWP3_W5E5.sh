@@ -10,6 +10,6 @@ conda activate geospatial # conda install -c conda-forge numpy xarray dask netCD
 for year in {1981..2011..10}
 do
   # (default) python concat_GSWP3_W5E5.py 2001 73.375,22.4375,97.8125,31.5 0.0625
-  python concat_GSWP3_W5E5.py $year # argment vectors: year(10-year interval) lon_west,lat_south,lon_east,lat_north(optional) resolution(optional)
+  python concat_GSWP3_W5E5.py $year # argument vectors: year(10-year interval) lon_west,lat_south,lon_east,lat_north(optional) resolution(optional)
   echo Completed...${year}s
 done
