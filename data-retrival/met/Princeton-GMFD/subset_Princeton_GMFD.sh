@@ -10,6 +10,6 @@ conda activate geospatial # conda install -c conda-forge numpy xarray dask netCD
 for year in {1990..2016}
 do
   # (default) python subset_Princeton_GMFD.py 2003 73.375,22.4375,97.8125,31.5 0.0625
-  python subset_Princeton_GMFD.py $year # argment vectors: year lon_west,lat_south,lon_east,lat_north resolution(optional)
+  python subset_Princeton_GMFD.py $year # argument vectors: year lon_west,lat_south,lon_east,lat_north resolution(optional)
   echo Completed...${year}
 done

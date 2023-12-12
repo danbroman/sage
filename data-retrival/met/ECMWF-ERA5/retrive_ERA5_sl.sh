@@ -10,5 +10,5 @@ conda activate cdsapi # conda install -c conda-forge cdsapi eccodes
 for year in {1990..2019}
 do
   # (default) python retrive_ERA5_sl.py 2003 73.375,22.4375,97.8125,31.5
-  python retrive_ERA5_sl.py $year # argment vectors: year lon_west,lat_south,lon_east,lat_north
+  python retrive_ERA5_sl.py $year # argument vectors: year lon_west,lat_south,lon_east,lat_north
 done

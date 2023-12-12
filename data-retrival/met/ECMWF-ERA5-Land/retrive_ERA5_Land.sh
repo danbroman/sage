@@ -12,6 +12,6 @@ do
   for month in {01..12} # annual -> monthly reqeust due to the number of files per request < 12000
   do
     # (default) python retrive_ERA5_Land.py 200301 73.375,22.4375,97.8125,31.5
-    python retrive_ERA5_Land.py $year$month # argment vectors: year lon_west,lat_south,lon_east,lat_north
+    python retrive_ERA5_Land.py $year$month # argument vectors: year lon_west,lat_south,lon_east,lat_north
   done
 done
