@@ -90,7 +90,7 @@ def convert_precipitation(da_prcp, model):
 # function to convert a temperature variable into degreeC
 def convert_temperature(da_temp, model):
     da = da_temp.copy()
-    if model in ['ERA5', 'ERA5-L', 'GSWP3-W5E5', 'HMA', 'GMFD']: da = da -273.15 # Kelvin to degreeC
+    if model in ['ERA5', 'ERA5-L', 'GSWP3-W5E5', 'HMA', 'GMFD']: da = da - 273.15 # Kelvin to degreeC
     da.attrs['units'] = 'degC'
 
     return da
