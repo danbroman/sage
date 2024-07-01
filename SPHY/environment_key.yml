@@ -1,4 +1,4 @@
-name: sphy_test
+name: sphy
 channels:
   - conda-forge
 dependencies:
