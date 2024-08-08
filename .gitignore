@@ -161,3 +161,129 @@ cython_debug/
 
 # Custom added
 .DS_Store
+SPHY/trainings/202405-Bhutan/data/clone.map
+SPHY/trainings/202405-Bhutan/data/dem.map
+SPHY/trainings/202405-Bhutan/data/DEM/as_con_3s_subset.tif
+SPHY/trainings/202405-Bhutan/data/FORCING/MSWX-Past_daily_subset_2002.nc
+SPHY/trainings/202405-Bhutan/data/FORCING/MSWX-Past_daily_subset_2003.nc
+SPHY/trainings/202405-Bhutan/data/FORCING/MSWX-Past_daily_subset_2004.nc
+SPHY/trainings/202405-Bhutan/data/GLACIER/Clean Ice and Debris covered glaciers of HKH Region/Data Download Agreement.pdf
+SPHY/trainings/202405-Bhutan/data/GLACIER/Clean Ice and Debris covered glaciers of HKH Region/metadata/CIDC_HKH.pdf
+SPHY/trainings/202405-Bhutan/data/GLACIER/Clean Ice and Debris covered glaciers of HKH Region/metadata/CIDC_HKH.xml
+SPHY/trainings/202405-Bhutan/data/GLACIER/Clean Ice and Debris covered glaciers of HKH Region/metadata/Thumbs.db
+SPHY/trainings/202405-Bhutan/data/GLACIER/HKH_CIDC_5basins_all.CPG
+SPHY/trainings/202405-Bhutan/data/GLACIER/HKH_CIDC_5basins_all.dbf
+SPHY/trainings/202405-Bhutan/data/GLACIER/HKH_CIDC_5basins_all.prj
+SPHY/trainings/202405-Bhutan/data/GLACIER/HKH_CIDC_5basins_all.sbn
+SPHY/trainings/202405-Bhutan/data/GLACIER/HKH_CIDC_5basins_all.sbx
+SPHY/trainings/202405-Bhutan/data/GLACIER/HKH_CIDC_5basins_all.shp
+SPHY/trainings/202405-Bhutan/data/GLACIER/HKH_CIDC_5basins_all.shp.xml
+SPHY/trainings/202405-Bhutan/data/GLACIER/HKH_CIDC_5basins_all.shx
+SPHY/trainings/202405-Bhutan/data/kc.tbl
+SPHY/trainings/202405-Bhutan/data/LAND/MCD12Q1.A2001001.tif
+SPHY/trainings/202405-Bhutan/data/SHAPE/btn_admbnda_adm1_bnlc_20201026.dbf
+SPHY/trainings/202405-Bhutan/data/SHAPE/btn_admbnda_adm1_bnlc_20201026.shp
+SPHY/trainings/202405-Bhutan/data/SHAPE/btn_admbnda_adm1_bnlc_20201026.shx
+SPHY/trainings/202405-Bhutan/data/SOIL/hwsd2_subset.tif
+SPHY/trainings/202405-Bhutan/data/SOIL/HWSD2to1.tbl
+SPHY/trainings/202405-Bhutan/data/SOIL/Ksat_M_250m_SUBSOIL_subset.tif
+SPHY/trainings/202405-Bhutan/data/SOIL/Ksat_M_250m_TOPSOIL_subset.tif
+SPHY/trainings/202405-Bhutan/data/SOIL/root_field.tbl
+SPHY/trainings/202405-Bhutan/data/SOIL/root_pwlt.tbl
+SPHY/trainings/202405-Bhutan/data/SOIL/root_satk.tbl
+SPHY/trainings/202405-Bhutan/data/SOIL/root_satwc.tbl
+SPHY/trainings/202405-Bhutan/data/SOIL/root_wlt.tbl
+SPHY/trainings/202405-Bhutan/data/SOIL/sub_field.tbl
+SPHY/trainings/202405-Bhutan/data/SOIL/sub_satk.tbl
+SPHY/trainings/202405-Bhutan/data/SOIL/sub_satwc.tbl
+SPHY/trainings/202405-Bhutan/data/SOIL/WCpF2_M_250m_SUBSOIL_subset.tif
+SPHY/trainings/202405-Bhutan/data/SOIL/WCpF2_M_250m_TOPSOIL_subset.tif
+SPHY/trainings/202405-Bhutan/data/SOIL/WCpF3_M_250m_TOPSOIL_subset.tif
+SPHY/trainings/202405-Bhutan/data/SOIL/WCpF4.2_M_250m_TOPSOIL_subset.tif
+SPHY/trainings/202405-Bhutan/data/SOIL/WCsat_M_250m_SUBSOIL_subset.tif
+SPHY/trainings/202405-Bhutan/data/SOIL/WCsat_M_250m_TOPSOIL_subset.tif
+SPHY/trainings/202405-Bhutan/data/tavg0000.001
+SPHY/trainings/202405-Bhutan/data/tavg0000.002
+SPHY/trainings/202405-Bhutan/data/tavg0000.003
+SPHY/trainings/202405-Bhutan/input/clone.map
+SPHY/trainings/202405-Bhutan/input/dem.map
+SPHY/trainings/202405-Bhutan/scripts/build_glacier_inputs.ipynb
+data-retrival/dem/EarthDEM/earthdem_2m_archive.csv
+data-retrival/dem/EarthDEM/earthdem_2m_archive_dudkoshi.csv
+data-retrival/dem/EarthDEM/earthdem_2m_archive_test.csv
+data-retrival/dem/EarthDEM/retrieve_EarthDEM.sh
+model-sphy/bhutan-ex/input/catchment.map
+model-sphy/bhutan-ex/input/clone.map
+model-sphy/bhutan-ex/input/clone.map.aux.xml
+model-sphy/bhutan-ex/input/dem.map
+model-sphy/bhutan-ex/input/dem.map.aux.xml
+model-sphy/bhutan-ex/preprocess/build_glacier_inputs.ipynb
+model-sphy/bhutan-ex/preprocess/config-GlabTop2.cfg
+model-sphy/bhutan-ex/preprocess/pcr_tool.py
+model-sphy/preprocess/0_Operation.ipynb
+model-sphy/preprocess/1_Workflow.ipynb
+model-sphy/preprocess/forcing.py
+model-sphy/preprocess/pcr_tool.py
+model-sphy/preprocess/plugin_upload.py
+model-sphy/preprocess/resources_rc.py
+model-sphy/preprocess/spatial_processing.py
+model-sphy/preprocess/spatial_processing3.py
+model-sphy/preprocess/SPHY_preprocess.py
+model-sphy/preprocess/SPHY_preprocess3.py
+model-sphy/preprocess/SPHY_preprocess_dialog.py
+model-sphy/preprocess/SPHY_preprocess_dialog_base.py
+model-sphy/preprocess/worker.py
+model-sphy/preprocess/worker3.py
+model-sphy/run.sh
+data-analysis/Lehner-BhutanClim/shapefiles/btn_admbnda_adm0_bnlc_20201026.dbf
+data-analysis/Lehner-BhutanClim/HEROES/Weather station data at Damthang School (Haa)_/metadata/metadata_1972724.xml
+data-analysis/Lehner-BhutanClim/HEROES/Weather station data at Damthang School (Haa)_/metadata/metadata_1972724.pdf
+data-analysis/Lehner-BhutanClim/HEROES/Weather station data at Damthang School (Haa)_/data/Damthang_data_monthly.csv
+data-analysis/Lehner-BhutanClim/HEROES/Weather station data at Damthang School (Haa)_/data/Damthang_data_daily.csv
+data-analysis/Lehner-BhutanClim/HEROES/Weather station data at Damthang School (Haa)_/Data Download Agreement.pdf
+data-analysis/Lehner-BhutanClim/HEROES/Weather station data at Damthang School (Haa)_/Data Description.pdf
+model-sphy/sphy_config_bhutan_demo.cfg
+data-analysis/Lehner-BhutanClim/shapefiles/btn_admbnda_adm0_bnlc_20201026.dbf
+data-analysis/Lehner-BhutanClim/shapefiles/btn_admbnda_adm0_bnlc_20201026.dbf
+data-analysis/Lehner-BhutanClim/shapefiles/btn_admbnda_adm0_bnlc_20201026.dbf
+data-analysis/Lehner-BhutanClim/shapefiles/btn_admbnda_adm0_bnlc_20201026.dbf
+SPHY/trainings/202405-Bhutan/data/BIN/aspect_bhutan.tif
+SPHY/trainings/202405-Bhutan/data/BIN/aspect_bins_bhutan.tif
+SPHY/trainings/202405-Bhutan/data/BIN/dem_bhutan.tif
+SPHY/trainings/202405-Bhutan/data/BIN/elevation_bins_bhutan.tif
+SPHY/trainings/202405-Bhutan/data/BIN/luse-icimod-2021_bins_bhutan.tif
+SPHY/trainings/202405-Bhutan/data/LAND/hkh_lc-2021.tif
+SPHY/trainings/202405-Bhutan/input/dem.map.aux.xml
+SPHY/trainings/202405-Bhutan/input/GlacID.map
+SPHY/trainings/202405-Bhutan/input/GlacID.tif
+SPHY/trainings/202405-Bhutan/input/luse.map
+SPHY/trainings/202405-Bhutan/input/luse.map.aux.xml
+SPHY/trainings/202405-Bhutan/input/luse_imod_2021.map
+SPHY/trainings/202405-Bhutan/input/luse_imod_2021.map.aux.xml
+SPHY/trainings/202405-Bhutan/input/ModelID.map
+SPHY/trainings/202405-Bhutan/input/ModelID.map.aux.xml
+SPHY/trainings/202405-Bhutan/input/ModelID.tif
+SPHY/trainings/202405-Bhutan/input/root_depth.map
+SPHY/trainings/202405-Bhutan/input/root_field.map
+SPHY/trainings/202405-Bhutan/input/root_field_HHS.map
+SPHY/trainings/202405-Bhutan/input/root_pwlt.map
+SPHY/trainings/202405-Bhutan/input/root_pwlt_HHS.map
+SPHY/trainings/202405-Bhutan/input/root_satk.map
+SPHY/trainings/202405-Bhutan/input/root_satk_HHS.map
+SPHY/trainings/202405-Bhutan/input/root_satwc.map
+SPHY/trainings/202405-Bhutan/input/root_satwc_HHS.map
+SPHY/trainings/202405-Bhutan/input/root_wlt.map
+SPHY/trainings/202405-Bhutan/input/root_wlt_HHS.map
+SPHY/trainings/202405-Bhutan/input/soil.map
+SPHY/trainings/202405-Bhutan/input/soilref.map
+SPHY/trainings/202405-Bhutan/input/sub_depth.map
+SPHY/trainings/202405-Bhutan/input/sub_field.map
+SPHY/trainings/202405-Bhutan/input/sub_field_HHS.map
+SPHY/trainings/202405-Bhutan/input/sub_satk.map
+SPHY/trainings/202405-Bhutan/input/sub_satk_HHS.map
+SPHY/trainings/202405-Bhutan/input/sub_satwc.map
+SPHY/trainings/202405-Bhutan/input/sub_satwc_HHS.map
+SPHY/trainings/202405-Bhutan/input/TLapse_Bhutan.csv
+data-analysis/Lehner-BhutanClim/shapefiles/btn_admbnda_adm0_bnlc_20201026.dbf
+data-analysis/Lehner-BhutanClim/shapefiles/btn_admbnda_adm0_bnlc_20201026.dbf
+data-analysis/Lehner-BhutanClim/shapefiles/btn_admbnda_adm0_bnlc_20201026.dbf
