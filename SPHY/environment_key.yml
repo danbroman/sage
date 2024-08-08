@@ -1,0 +1,17 @@
+name: sphy
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - dask
+  - geopandas
+  - matplotlib
+  - netcdf4
+  - notebook
+  - numpy
+  - shapely
+  - pandas
+  - pcraster
+  - python
+  - rioxarray
+  - xarray
