@@ -414,7 +414,7 @@ def dynamic_reporting(self, pcr, pd, np):
         GlacID_grouped = None; del GlacID_grouped
         #-Calculate the ice redistribution
         GlacFracTable['Ice_redist'] = GlacFracTable['V_ice_positive'] / GlacFracTable['V_ice_positive_group'] * GlacFracTable['V_ice_negative_group']
-        GlacFracTable['Ice_redist'].fillna(0., inplace=True)
+        GlacFracTable['Ice_redist'] = GlacFracTable['Ice_redist'].fillna(0.)
         #-Remove unnecessary columns
         GlacFracTable.drop(['V_ice_negative', 'V_ice_positive', 'V_ice_negative_group', 'V_ice_positive_group'], axis=1, inplace=True)
         #-Update ice volume
